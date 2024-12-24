@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            TOGAF 10
+longtitle:        My Notes for prepation of TOGAF 10
+author:           Vishal Ingle
+email:            vishalingle25793@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  My Notes for prepation of TOGAF 10
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              '/jekyll-gitbook'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself

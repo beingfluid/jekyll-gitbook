@@ -1,9 +1,11 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: Vishal Ingle
+date: 2024-12-24
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+This site is created temporarily just for the prepation of TOGAF 10.
+
+It will be taken down after my exam.
