@@ -30,7 +30,12 @@
         <div id="book-search-input-link" role="search">
             <a href="{{site.baseurl}}/assets/search.html">Click to Search</a>
         </div>
+        
         <ul class="summary">
+            <li class="chapter" data-level="1.1" data-path="/quiz">
+                <a href="/quiz">Practice sets</a>
+            </li>
+            <li class="divider"></li>
             {% if page.url == "/index.html" or page.url == "/" %}
             <li class="chapter active" data-level="1.1" data-path="{{site.baseurl}}">
             {% else %}
